@@ -15,9 +15,9 @@
 <body>
     <!-- inicio header -->
     <section class="header">
-        <a href="../inicio.php" class="logo">Agencia de turismo</a>
+        <a href="../index.php" class="logo">Agencia de turismo</a>
         <nav class="navbar">
-            <a href="../inicio.php">Inicio</a>
+            <a href="../index.php">Inicio</a>
             <a href="../pag/paquetes.php">Paquetes</a>
             <a href="../pag/ofertas.php">Ofertas</a>
             <a href="../pag/reserva.php">Reserva</a>
@@ -99,7 +99,7 @@
         <div class="box-container">
             <div class="box">
                 <h3>Links rapidos</h3>
-                <a href="../inicio.php"><i class="fas fa-angle-right"></i> Inicio</a>
+                <a href="../index.php"><i class="fas fa-angle-right"></i> Inicio</a>
                 <a href="../pag/paquetes.php"><i class="fas fa-angle-right"></i>Paquetes</a>
                 <a href="../pag/ofertas.php"><i class="fas fa-angle-right"></i>Ofertas</a>
                 <a href="../pag/reserva.php"><i class="fas fa-angle-right"></i>Reserva</a>
